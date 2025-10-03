@@ -1,5 +1,13 @@
 # [Join Discord](https://discord.gg/fG8gtywEZ5)
 
+[Afterlife X Hud](https://github.com/AfterLifeStudio/Afterlife_xhud)
+[Afterlife IV Hud](https://github.com/AfterLifeStudio/Afterlife_ivhud)
+[Afterlife IV Spawn](https://github.com/AfterLifeStudio/Afterlife_Spawn)
+[Afterlife IV Multicharacter](https://github.com/AfterLifeStudio/Afterlife_ivmulticharacter2.0)
+[Afterlife IV Death Screen](https://github.com/AfterLifeStudio/DeathSystem)
+[Afterlife Drug Packing](https://github.com/AfterLifeStudio/Afterlife_drugspacking) 
+[Afterlife Boss Menu](https://github.com/AfterLifeStudio/Afterlife_bossmenu)
+
 [![Watch the video](https://img.youtube.com/vi/VxzdW6-mHu8/maxresdefault.jpg)](https://youtu.be/VxzdW6-mHu8)
 [![Watch the video](https://img.youtube.com/vi/pXUUpcOqRuk/maxresdefault.jpg)](https://youtu.be/pXUUpcOqRuk)
 
